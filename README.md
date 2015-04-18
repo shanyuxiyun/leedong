@@ -1,5 +1,4 @@
-# leedong
-技术博客
+# 学习资源
 
 ### 1 Redis学习推荐
 > 1.2 http://try.redis.io/
